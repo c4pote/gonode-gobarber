@@ -2,7 +2,7 @@ module.exports = {
   dialect: 'postgres',
   host: '127.0.0.1',
   username: 'postgres',
-  password: 'Maker@1',
+  password: 'SuaSenhaAqui',
   database: 'gonodemodule2',
   operatorAliases: false,
   define: {
